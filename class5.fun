@@ -1,0 +1,1 @@
+fun fintstuff (x, y) = x / y;
